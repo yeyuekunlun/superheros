@@ -1,0 +1,1 @@
+<view>{{''+msg+''}}<view><label class="_span">{{myVal}}</label></view></view>
